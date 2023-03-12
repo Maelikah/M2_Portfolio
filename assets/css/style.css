@@ -229,6 +229,97 @@ section nav {
 
 /* Responsiveness */
 
-@media screen {
+
+@media screen and (max-width: 1280px) {
     
-}  
+    header h1 {
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    header nav {
+        text-align: center;
+        justify-content: center;
+        padding-top: 10px;
+        width: 100%;
+        
+    }
+    
+    
+@media screen and (max-width: 450px) {
+    header h1 {
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+        font-size: 3rem;
+    }
+    
+    header nav {
+        text-align: center;
+        justify-content: center;
+        padding-top: 10px;
+        font-size: 1.3rem; 
+    }
+    
+    header nav a {  
+        margin-right: 30px;
+        text-decoration-thickness: 3px;
+    }
+
+    .figure1-contents{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .figure1-contents h2 {
+        font-size: 2.5rem;
+    }
+    
+    .figure1-contents img {
+        padding: 2rem;
+        width: 30rem; 
+        height: 30rem;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section-contents  {
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .section-contents  h2{
+        text-align: center;
+        font-size: 2rem;
+        border-right: none;
+        border-bottom: thick solid var(--txt);
+    }
+
+    .section-contents section p {
+        font-size: 1.5rem;
+    }
+
+    .image-contents {
+        display: block;
+    }
+
+    .image-links h3 {
+        font-size: 1.5rem;
+    }
+
+    .image-links, .image-links:first-child {
+        min-height: 80px;
+    }
+
+    .section-contents section nav {
+        flex-direction: column;
+    }
+
+    .section-contents section nav a {
+        font-size: 1.5rem;
+        padding: .5rem;
+        text-decoration: underline;
+    }
+}
