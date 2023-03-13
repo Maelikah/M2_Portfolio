@@ -229,8 +229,35 @@ section nav {
 
 /* Responsiveness */
 
-
 @media screen and (max-width: 1799px) {
+    .section-contents  h2{
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .section-contents section p {
+        font-size: 2rem;
+    }
+
+    .image-links h3 {
+        font-size: 2rem;
+    }
+
+    .image-links, .image-links:first-child {
+        min-height: 160px;
+    }
+
+    .section-contents section nav {
+        
+    }
+
+    .section-contents section nav a {
+        font-size: 2rem;
+        padding: .5rem; 
+    }
+}
+
+@media screen and (max-width: 1199px) {
     
     header h1 {
         text-align: center;
@@ -263,10 +290,6 @@ section nav {
         justify-content: center;
     }
 
-    .section-contents  {
-        
-    }
-
     .section-contents  h2{
         text-align: center;
         font-size: 2rem;
@@ -274,9 +297,6 @@ section nav {
 
     .section-contents section p {
         font-size: 1.5rem;
-    }
-
-    .image-contents {
     }
 
     .image-links h3 {
