@@ -247,10 +247,6 @@ section nav {
         min-height: 160px;
     }
 
-    .section-contents section nav {
-        
-    }
-
     .section-contents section nav a {
         font-size: 2rem;
         padding: .5rem; 
@@ -316,7 +312,8 @@ section nav {
         padding: .5rem;
         text-decoration: underline;
     }
-      
+}
+     
 @media screen and (max-width: 768px) {
     header h1 {
         text-align: center;
