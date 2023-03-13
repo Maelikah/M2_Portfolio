@@ -10,47 +10,46 @@ This was a hard challenge to me as I had to investigate a lot to make the conten
 
 ## Usage
 
+The webpage should be navigated and the following acceptance criteria should be tested and validated:
 
+---
+* GIVEN a portfolio webpage
+* WHEN I load the page
+* THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+* WHEN I click one of the links in the navigation
+* THEN the UI scrolls to the corresponding section
+* WHEN I click on the link to the section about their work
+* THEN the UI scrolls to a section with titled images of the developer's applications
+* WHEN I am presented with the developer's first application
+* THEN that application's image should be larger in size than the others
+* WHEN I click on the images of the applications
+* THEN I am taken to that deployed application (applicable only for Prework and Challenge 1)
+* WHEN I resize the page or view the site on various screens and devices
+* THEN I am presented with a responsive layout that adapts to my viewport
+---
 
+The github URL containing the code for this challenge is located at:
 
-Provide instructions and examples for use. Include screenshots as needed.
+https://github.com/Maelikah/Module2
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The github pages URL containing the deployed webpage is located at:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+https://maelikah.github.io/Module2/
+
+Here is a screenshot of the deployed webpage for reference:
+
+![Screenshot](assets/images/screenshot.png)
+
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Flexbox & Responsive Web Design tutorials:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+* https://webflow.com/blog/flexbox-and-css-grid
+* https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/
+* https://web.dev/learn/design/
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+N/A
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
