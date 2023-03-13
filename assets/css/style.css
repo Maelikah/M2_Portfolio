@@ -86,7 +86,7 @@ section nav {
 /* Class Selectors*/
 
 .figure1-contents{
-    background-image: url(/assets/images/Background2.jpg);
+    background-image: url(../images/Background2.jpg);
     background-size: cover; 
     display: flex;
     flex-direction: column;
@@ -203,27 +203,27 @@ section nav {
 }
 
 .topic1 {
-    background-image: url(/assets/images/Prework.png);
+    background-image: url(../images/Prework.png);
     background-repeat: no-repeat;  
 }
 
 .topic2 {
-    background-image: url(/assets/images/Challenge1.png);
+    background-image: url(../assets/images/Challenge1.png);
     background-repeat: no-repeat; 
 }
 
 .topic3 {  
-    background-image: url(/assets/images/future1.jpg);
+    background-image: url(../images/future1.jpg);
     background-repeat: no-repeat; 
 }
 
 .topic4 {
-    background-image: url(/assets/images/future2.jpg);
+    background-image: url(/images/future2.jpg);
     background-repeat: no-repeat; 
 }
    
 .topic5 {
-    background-image: url(/assets/images/future3.jpg);
+    background-image: url(../images/future3.jpg);
     background-repeat: no-repeat;
 }
 
@@ -313,7 +313,7 @@ section nav {
         text-decoration: underline;
     }
 }
-     
+
 @media screen and (max-width: 768px) {
     header h1 {
         text-align: center;
