@@ -230,7 +230,7 @@ section nav {
 /* Responsiveness */
 
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1799px) {
     
     header h1 {
         text-align: center;
@@ -241,13 +241,63 @@ section nav {
     header nav {
         text-align: center;
         justify-content: center;
-        padding-top: 10px;
+        padding-top: 20px;
         width: 100%;
-        
+    }
+
+    .figure1-contents{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
     }
     
+    .figure1-contents h2 {
+        font-size: 2.5rem;
+    }
     
-@media screen and (max-width: 450px) {
+    .figure1-contents img {
+        padding: 2rem;
+        width: 30rem; 
+        height: 30rem;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section-contents  {
+        
+    }
+
+    .section-contents  h2{
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .section-contents section p {
+        font-size: 1.5rem;
+    }
+
+    .image-contents {
+    }
+
+    .image-links h3 {
+        font-size: 1.5rem;
+    }
+
+    .image-links, .image-links:first-child {
+        min-height: 80px;
+    }
+
+    .section-contents section nav {
+        flex-direction: column;
+    }
+
+    .section-contents section nav a {
+        font-size: 1.5rem;
+        padding: .5rem;
+        text-decoration: underline;
+    }
+      
+@media screen and (max-width: 768px) {
     header h1 {
         text-align: center;
         justify-content: center;
