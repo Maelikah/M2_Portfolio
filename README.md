@@ -51,5 +51,5 @@ Flexbox & Responsive Web Design tutorials:
 
 ## License
 
-N/A
+N/A.
 
