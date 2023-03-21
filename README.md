@@ -30,11 +30,11 @@ The webpage should be navigated and the following acceptance criteria should be 
 
 The github URL containing the code for this challenge is located at:
 
-https://github.com/Maelikah/Module2
+https://github.com/Maelikah/M2_Portfolio
 
 The github pages URL containing the deployed webpage is located at:
 
-https://maelikah.github.io/Module2/
+https://maelikah.github.io/M2_Portfolio/
 
 Here is a screenshot of the deployed webpage for reference:
 
@@ -51,5 +51,5 @@ Flexbox & Responsive Web Design tutorials:
 
 ## License
 
-N/A.
+N/A
 

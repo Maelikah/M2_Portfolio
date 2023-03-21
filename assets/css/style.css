@@ -86,12 +86,12 @@ section nav {
 /* Class Selectors*/
 
 .figure1-contents{
-    background-image: url("../images/Background2.jpg");
-    background-size: cover; 
+    background-image: url("../images/Background3.jpg");
+    background-size: 100% 99%; 
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: flex-start;
+    align-items: flex-start;
     padding-bottom: 4rem;
     padding-right: 2rem;
     min-height: 25rem;
@@ -105,6 +105,12 @@ section nav {
     color: var(--bgc1);
     padding: 1%; 
     text-align: center;
+}
+
+.figure1-contents h2:hover {
+    background-color: transparent;
+    color: var(--hver);
+    text-shadow: var(--shdow) 1px 0 10px;
 }
 
 .figure1-contents img {
@@ -270,16 +276,20 @@ section nav {
 
     .figure1-contents{
         width: 100%;
-        justify-content: center;
-        align-items: center;
+        justify-content: flex-start;
+        align-items: flex-start;
+        
     }
-    
+
+
     .figure1-contents h2 {
-        font-size: 2.5rem;
+       font-size: 3rem;
+     
+
     }
     
     .figure1-contents img {
-        padding: 2rem;
+        padding: 1rem;
         width: 30rem; 
         height: 30rem;
         align-items: center;
@@ -289,6 +299,8 @@ section nav {
     .section-contents  h2{
         text-align: center;
         font-size: 2rem;
+        align-items: center;
+        justify-content: center;
     }
 
     .section-contents section p {
@@ -336,18 +348,18 @@ section nav {
 
     .figure1-contents{
         width: 100%;
-        justify-content: center;
-        align-items: center;
+        
+        
     }
     
     .figure1-contents h2 {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     
     .figure1-contents img {
-        padding: 2rem;
-        width: 30rem; 
-        height: 30rem;
+        padding: 0rem;
+        width: 20rem; 
+        height: 20rem;
         align-items: center;
         justify-content: center;
     }
