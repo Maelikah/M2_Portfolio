@@ -209,12 +209,13 @@ section nav {
 }
 
 .topic1 {
-    background-image: url("../images/Prework.png");
+    background-image: url("../images/programming.png");
     background-repeat: no-repeat;  
+
 }
 
 .topic2 {
-    background-image: url("../images/challenge.jpg");
+    background-image: url("../images/m1.png");
     background-repeat: no-repeat; 
 }
 
