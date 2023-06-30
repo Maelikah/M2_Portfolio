@@ -48,6 +48,8 @@ Flexbox & Responsive Web Design tutorials:
 * https://webflow.com/blog/flexbox-and-css-grid
 * https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/
 * https://web.dev/learn/design/
+* https://www.vecteezy.com/
+* http://www.freepik.com/
 
 ## License
 

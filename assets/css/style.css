@@ -209,7 +209,7 @@ section nav {
 }
 
 .topic1 {
-    background-image: url("../images/programming.png");
+    background-image: url("../images/m0.png");
     background-repeat: no-repeat;  
 
 }
@@ -220,16 +220,91 @@ section nav {
 }
 
 .topic3 {  
-    background-image: url("../images/future1.jpg");
+    background-image: url("../images/m2.png");
     background-repeat: no-repeat; 
 }
 
 .topic4 {
-    background-image: url("../images/future2.jpg");
+    background-image: url("../images/m3.png");
     background-repeat: no-repeat; 
 }
-   
+
 .topic5 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic6 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic7 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic8 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic9 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic10 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic11 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic12 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic13 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic14 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic15 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic16 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic17 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic18 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic19 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic20 {
     background-image: url("../images/future3.jpg");
     background-repeat: no-repeat;
 }
