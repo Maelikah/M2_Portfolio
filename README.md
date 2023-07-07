@@ -51,6 +51,20 @@ This was a hard challenge to me as I had to investigate a lot to make the conten
 
 The webpage should be navigated and upon clicking on the links, the user should be sent to the corresponding github page.
 
+The github URL containing the code for this challenge is located at:
+
+https://github.com/Maelikah/M2_Portfolio
+
+The github pages URL containing the deployed webpage is located at:
+
+https://maelikah.github.io/M2_Portfolio/
+
+Here is a screenshot of the deployed webpage for reference:
+
+<br>
+
+![Screenshot](assets/images/screenshot.png)
+
 </br>
 
 
