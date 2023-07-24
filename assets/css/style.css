@@ -285,26 +285,31 @@ section nav {
 }
 
 .topic16 {
-    background-image: url("../images/future1.jpg");
+    background-image: url("../images/m15.png");
     background-repeat: no-repeat;
 }
 
 .topic17 {
-    background-image: url("../images/future2.jpg");
+    background-image: url("../images/m16.png");
     background-repeat: no-repeat;
 }
 
 .topic18 {
-    background-image: url("../images/future2.jpg");
+    background-image: url("../images/m17.png");
     background-repeat: no-repeat;
 }
 
 .topic19 {
-    background-image: url("../images/future2.jpg");
+    background-image: url("../images/m18.png");
     background-repeat: no-repeat;
 }
 
 .topic20 {
+    background-image: url("../images/future3.jpg");
+    background-repeat: no-repeat;
+}
+
+.topic21 {
     background-image: url("../images/future3.jpg");
     background-repeat: no-repeat;
 }
